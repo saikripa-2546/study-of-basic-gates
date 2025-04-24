@@ -94,6 +94,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/24de32ab-4406-46d7-b3cc-c1a0ce78d01b)
 
 **RTL**
+
 ![image](https://github.com/user-attachments/assets/d2fcaf97-9053-4e66-95b1-542926935903)
 
 **Result:**
